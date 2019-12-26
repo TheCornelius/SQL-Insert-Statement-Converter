@@ -5,15 +5,15 @@ Python script that converts records in tables (eg: .xlsx tables) to SQL's INSERT
 In a Database class, the lecturer required us to convert records from 4 tables (.xlsx tables) to SQL INSERT statements. Instead of inserting the values manually and formatting it properly, I wrote a Python script that does the job.
 
 _Here are the 4 tables:_
-1. Item Table
+1. Item Table <br />
 ![Item Table](https://github.com/TheCornelius/SQL-Insert-Statement-Converter/blob/master/Table_Images/ItemsTable.PNG)
 
-2. Sales Table<br />
-![Sales Table](/Table_Images/SalesTable.png)
-3. Buyer Table
-![Buyer Table](./Table_Images/BuyerTable.png)
-4. Invoice Table
-![Invoice Table](./Table_Images/InvoiceTable.png)
+2. Sales Table <br />
+![Sales Table](https://github.com/TheCornelius/SQL-Insert-Statement-Converter/blob/master/Table_Images/SalesTable.PNG)
+3. Buyer Table <br />
+![Buyer Table](https://github.com/TheCornelius/SQL-Insert-Statement-Converter/blob/master/Table_Images/BuyerTable.PNG)
+4. Invoice Table <br />
+![Invoice Table](https://github.com/TheCornelius/SQL-Insert-Statement-Converter/blob/master/Table_Images/InvoiceTable.PNG)
 
 ## What I Did
 1) Copied the contents of the table and saved it as .txt files (File Names: Items.txt, Sales.txt, Buyer.txt, Invoice.txt). <br />
