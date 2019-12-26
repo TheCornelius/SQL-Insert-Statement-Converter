@@ -3,8 +3,8 @@
 
 # These lists uses these indexes to keep track of different table records: {0-Invoice 1-Buyer 2-Sales 3-Items}
 raw_strings = [r"INSERT INTO Invoice VALUES ({}, '{}', {}, {}, {}, {});", r"INSERT INTO Buyer VALUES ({}, '{}', '{}', '{}');", r"INSERT INTO Sales VALUES ({}, '{}', '{}');", r"INSERT INTO Sales VALUES ({}, '{}', '{}', {}, {}, '{}');"]
-inputFileNames = ["Items.txt", "Sales.txt", "Buyer.txt", "Invoice.txt"]
-outputFileNames = ["ItemsTable.txt", "SalesTable.txt", "BuyerTable.txt", "InvoiceTable.txt"]
+inputFileNames = ["Invoice.txt", "Buyer.txt", "Sales.txt", "Items.txt"]
+outputFileNames = ["InvoiceTable.txt", "BuyerTable.txt", "SalesTable.txt", "ItemsTable.txt"]
 outputCommands = [r"lines[0], lines[1], lines[2], lines[3], lines[4], lines[5]", r"lines[0], lines[1], lines[2], lines[3]", r"lines[0], lines[1], lines[2]", r"lines[0], lines[1], lines[2], lines[3], lines[4], lines[5]"]
 strings = []
 lines = []
