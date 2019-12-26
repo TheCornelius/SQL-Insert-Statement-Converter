@@ -2,7 +2,7 @@
 Python script that converts records in tables (eg: .xlsx tables) to SQL's INSERT statements.
 
 ## Introduction
-In a Database class, the lecturer required us to convert records from 4 tables (.xlsx tables) to SQL INSERT statements. Instead of inserting the values manually and formatting it properly, I wrote a Python script that does the job.
+In a Database class, the lecturer required us to convert records from 4 tables (.xlsx tables) to SQL INSERT statements. Instead of inserting the values and formatting it manually, I wrote a Python script that does the job.
 
 _Here are the 4 tables:_
 1. Item Table <br />
