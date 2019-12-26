@@ -1,0 +1,9 @@
+659	LCD Monitor	Computer	900.99	50	24 inch Samsung
+965	Pen	Stationary	1.64	3	Red ink
+855	Printer	Computer	300.55	1	Epson super jet
+698	Fan	Electrical	86.11	4	Hitachi
+598	Rubber	Stationary	0.63	98	Faber 3cm
+456	Hardisc	Computer	250.81	2	Maxtor 500GB
+879	Pen Drive	Computer	98.65	78	MyDrive 16GB mini version
+989	Nokia Phone	Electrical	980.21	100	N85 super series
+888	Camera	Electrical	1230.36	8	Sony 15 Megapixel
