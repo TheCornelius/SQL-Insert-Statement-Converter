@@ -6,7 +6,7 @@ In a Database class, the lecturer required us to convert records from 4 tables (
 
 _Here are the 4 tables:_
 1. Item Table
-![Item Table](/Table_Images/ItemsTable.png)
+![Item Table](https://github.com/TheCornelius/SQL-Insert-Statement-Converter/blob/master/Table_Images/ItemsTable.PNG)
 
 2. Sales Table<br />
 ![Sales Table](/Table_Images/SalesTable.png)
