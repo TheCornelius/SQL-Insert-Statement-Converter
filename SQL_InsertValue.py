@@ -43,4 +43,5 @@ def main():
         outputToFile(i)
         clearLists()
 
-main()
+if __name__ == "__main__":
+    main()
