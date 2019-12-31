@@ -1,0 +1,9 @@
+INSERT INTO Buyer VALUES (1, 'Jerremy', '61255689766', 'Active');
+INSERT INTO Buyer VALUES (2, 'Cech', '60135695469', 'Not Active');
+INSERT INTO Buyer VALUES (3, 'Meluda', '60191346876', 'Active');
+INSERT INTO Buyer VALUES (4, 'Jessica', '60168954615', 'Active');
+INSERT INTO Buyer VALUES (5, 'Toure', '60136546586', 'Not Active');
+INSERT INTO Buyer VALUES (6, 'Jesmon', '60145226569', 'Active');
+INSERT INTO Buyer VALUES (7, 'Torres', '60125469788', 'Active');
+INSERT INTO Buyer VALUES (8, 'Martin', '60135468798', 'Not Active');
+INSERT INTO Buyer VALUES (9, 'Taylor', '60124659789', 'Active');

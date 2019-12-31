@@ -1,0 +1,9 @@
+INSERT INTO Sales VALUES (659, 'LCD Monitor', 'Computer', 900.99, 50, '24 inch Samsung');
+INSERT INTO Sales VALUES (965, 'Pen', 'Stationary', 1.64, 3, 'Red ink');
+INSERT INTO Sales VALUES (855, 'Printer', 'Computer', 300.55, 1, 'Epson super jet');
+INSERT INTO Sales VALUES (698, 'Fan', 'Electrical', 86.11, 4, 'Hitachi');
+INSERT INTO Sales VALUES (598, 'Rubber', 'Stationary', 0.63, 98, 'Faber 3cm');
+INSERT INTO Sales VALUES (456, 'Hardisc', 'Computer', 250.81, 2, 'Maxtor 500GB');
+INSERT INTO Sales VALUES (879, 'Pen Drive', 'Computer', 98.65, 78, 'MyDrive 16GB mini version');
+INSERT INTO Sales VALUES (989, 'Nokia Phone', 'Electrical', 980.21, 100, 'N85 super series');
+INSERT INTO Sales VALUES (888, 'Camera', 'Electrical', 1230.36, 8, 'Sony 15 Megapixel');
