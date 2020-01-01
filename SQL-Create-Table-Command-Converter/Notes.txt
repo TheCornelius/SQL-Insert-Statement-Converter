@@ -1,0 +1,16 @@
+// SHOULD NOT BE COMMITTED TO THE GITHUB REPO
+
+=============== WAY OF IMPLEMENTING ===============
+- 1 .xlsx sheet contains all the tables to be converted
+- If Foreign Key is "Yes", create a Foreign Key statement and append to tempList
+- If tempList is not empty, iterate through it and write to file
+- If the
+- Check whether end of file has reached
+
+===================================================
+
+if foreign key == yes:
+	append FOREIGN KEY STATEMENT to foreign key list
+at the end of the part, add the foreign key statement
+
+Indicator that end of file has reached - the row in which the first 2 columns are empty strings [use max_row() to find the no. of records in a .xlsx file]
