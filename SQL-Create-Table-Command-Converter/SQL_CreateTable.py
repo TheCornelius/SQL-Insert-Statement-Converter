@@ -2,7 +2,12 @@
 # Input file is .xlsx format while output file is .txt format
 
 import openpyxl
+from openpyxl import Workbook
 import os
+
+# openpyxl stuff
+wb = Workbook()
+ws = wb.active  # Uses the active worksheet, by default it is 0
 
 
 TableNames = ["Buyer"]
